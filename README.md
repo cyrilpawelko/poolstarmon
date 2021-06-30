@@ -1,1 +1,1 @@
-# poolstar
+# Poolstar pool heat pump monitor
